@@ -1,0 +1,5 @@
+C:\Users\Joker\source\repos\CreamAPI.CheckSteamFolder\CreamAPI.CheckSteamFolder\bin\Debug\CreamAPI.CheckSteamFolder.dll
+C:\Users\Joker\source\repos\CreamAPI.CheckSteamFolder\CreamAPI.CheckSteamFolder\bin\Debug\CreamAPI.CheckSteamFolder.pdb
+C:\Users\Joker\source\repos\CreamAPI.CheckSteamFolder\CreamAPI.CheckSteamFolder\obj\Debug\CreamAPI.CheckSteamFolder.csproj.CoreCompileInputs.cache
+C:\Users\Joker\source\repos\CreamAPI.CheckSteamFolder\CreamAPI.CheckSteamFolder\obj\Debug\CreamAPI.CheckSteamFolder.dll
+C:\Users\Joker\source\repos\CreamAPI.CheckSteamFolder\CreamAPI.CheckSteamFolder\obj\Debug\CreamAPI.CheckSteamFolder.pdb

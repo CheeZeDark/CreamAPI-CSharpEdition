@@ -1,0 +1,7 @@
+C:\Users\Joker\source\repos\CreamAPI.Install\CreamAPI.Install\bin\Debug\CreamAPI.Install.dll
+C:\Users\Joker\source\repos\CreamAPI.Install\CreamAPI.Install\bin\Debug\CreamAPI.Install.pdb
+C:\Users\Joker\source\repos\CreamAPI.Install\CreamAPI.Install\obj\Debug\CreamAPI.Install.Properties.Resources.resources
+C:\Users\Joker\source\repos\CreamAPI.Install\CreamAPI.Install\obj\Debug\CreamAPI.Install.csproj.GenerateResource.cache
+C:\Users\Joker\source\repos\CreamAPI.Install\CreamAPI.Install\obj\Debug\CreamAPI.Install.csproj.CoreCompileInputs.cache
+C:\Users\Joker\source\repos\CreamAPI.Install\CreamAPI.Install\obj\Debug\CreamAPI.Install.dll
+C:\Users\Joker\source\repos\CreamAPI.Install\CreamAPI.Install\obj\Debug\CreamAPI.Install.pdb

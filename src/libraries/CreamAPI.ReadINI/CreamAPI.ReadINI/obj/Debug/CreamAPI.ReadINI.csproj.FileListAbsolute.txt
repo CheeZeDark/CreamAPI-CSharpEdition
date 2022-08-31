@@ -1,0 +1,6 @@
+C:\Users\Joker\source\repos\CreamAPI.ReadINI\CreamAPI.ReadINI\bin\Debug\CreamAPI.ReadINI.dll
+C:\Users\Joker\source\repos\CreamAPI.ReadINI\CreamAPI.ReadINI\bin\Debug\CreamAPI.ReadINI.pdb
+C:\Users\Joker\source\repos\CreamAPI.ReadINI\CreamAPI.ReadINI\obj\Debug\CreamAPI.ReadINI.csproj.AssemblyReference.cache
+C:\Users\Joker\source\repos\CreamAPI.ReadINI\CreamAPI.ReadINI\obj\Debug\CreamAPI.ReadINI.csproj.CoreCompileInputs.cache
+C:\Users\Joker\source\repos\CreamAPI.ReadINI\CreamAPI.ReadINI\obj\Debug\CreamAPI.ReadINI.dll
+C:\Users\Joker\source\repos\CreamAPI.ReadINI\CreamAPI.ReadINI\obj\Debug\CreamAPI.ReadINI.pdb
