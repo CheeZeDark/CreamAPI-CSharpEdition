@@ -9,9 +9,11 @@ namespace CreamAPI.ReadINI
 {
     public class INIRead
     {
-        public void ReadINIFile(string ini_folder, Encoding enc)
+        public string ReadINIFile(string ini_folder, Encoding enc)
         {
-            File.ReadAllText(ini_folder, enc);
+            string read_text;
+            read_text = File.ReadAllText(ini_folder, enc);
+            return read_text
         }
     }
 }
