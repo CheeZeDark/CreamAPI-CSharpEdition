@@ -13,7 +13,7 @@ namespace CreamAPI.ReadINI
         {
             string read_text;
             read_text = File.ReadAllText(ini_folder, enc);
-            return read_text
+            return read_text;
         }
     }
 }
